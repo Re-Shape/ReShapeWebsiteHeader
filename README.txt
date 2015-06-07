@@ -1,1 +1,0 @@
-This is the interactive header for the Re-Shape.io website. Made by Hesam Ohadi
